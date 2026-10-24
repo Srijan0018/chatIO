@@ -34,7 +34,7 @@ INITIAL_FAQS = [
     },
     {
         "question": "Do you offer discounts?",
-        "answer": "Please contact our sales team for current discounts and offers.",
+        "answer": "NO! we dont offer any discounts.",
         "category": "Sales"
     },
 ]
